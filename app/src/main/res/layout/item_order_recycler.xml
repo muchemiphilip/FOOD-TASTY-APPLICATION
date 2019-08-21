@@ -20,7 +20,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="2"
-                android:text="@string/hint_foodtype"
+                android:text="@string/food_type"
                 android:textColor="@color/colorTextHint"/>
 
             <androidx.appcompat.widget.AppCompatTextView
@@ -28,7 +28,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="2"
-                android:text="@string/hint_foodtype"
                 android:textColor="@android:color/darker_gray" />
         </LinearLayout>
 

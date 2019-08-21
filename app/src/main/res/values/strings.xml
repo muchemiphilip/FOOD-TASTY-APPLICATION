@@ -22,13 +22,15 @@
     <string name="distributor">Distributer</string>
     <string name="text_choose_a_restauranr">Choose a Restaurant</string>
     <string name="tasty_foods_orders">Tasty Foods Orders</string>
-    <string name="hint_foodtype">FOOD TYPE</string>
+    <string name="hint_food_type">FOOD TYPE</string>
     <string name="hint_location">LOCATION</string>
     <string name="hint_price">PRICE</string>
     <string name="welcome_to_tasty_foods">WELCOME TO TASTY FOODS</string>
     <string name="Next">Next..</string>
     <string name="choose_restaurant">Choose Restaurant:</string>
     <string name="check_out_our_menu">Check out our Menu</string>
+    <string name="orders_to_be_delivered">Orders to be Delivered</string>
+    <string name="food_type">FOOD TYPE</string>
 
 
 </resources>
