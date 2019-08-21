@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="user_type">
+        <item>Customer</item>
+        <item>Distributor</item>
+    </array>
+
+    <array name="restaurants">
+        <item>Select a Restaurant:</item>
+        <item>JAVA HOUSE NYALI</item>
+        <item>BLUE ROOM</item>
+        <item>TARBUSH SWAHILI FOODS</item>
+        <item>BARCA SWAHILI DISHES</item>
+        <item>CHICKEN INN</item>
+        <item>CAFE MOCHA NYALI</item>
+    </array>
+
+</resources>
