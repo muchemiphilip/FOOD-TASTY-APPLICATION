@@ -11,8 +11,10 @@ import androidx.appcompat.widget.AppCompatButton;
 import androidx.appcompat.widget.AppCompatSpinner;
 
 import com.shemuchemi.R;
+import com.shemuchemi.restaurants.Barca;
 import com.shemuchemi.restaurants.BlueRoom;
 import com.shemuchemi.restaurants.JavaHouse;
+import com.shemuchemi.restaurants.Tarbush;
 
 public class CustomerActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
 
@@ -46,10 +48,10 @@ public class CustomerActivity extends AppCompatActivity implements AdapterView.O
             startActivity( new Intent( CustomerActivity.this, BlueRoom.class ) );
         }
         else if (restaurantSelected.equals( "TARBUSH SWAHILI FOODS" )){
-            startActivity( new Intent( CustomerActivity.this, BlueRoom.class ) );
+            startActivity( new Intent( CustomerActivity.this, Tarbush.class ) );
         }
         else if (restaurantSelected.equals( "BARCA SWAHILI FOODS" )){
-            startActivity( new Intent( CustomerActivity.this, BlueRoom.class ) );
+            startActivity( new Intent( CustomerActivity.this, Barca.class ) );
         }
         else if (restaurantSelected.equals( "CHICKEN INN" )){
             startActivity( new Intent( CustomerActivity.this, BlueRoom.class ) );
